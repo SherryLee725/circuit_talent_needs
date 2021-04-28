@@ -1,0 +1,2068 @@
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+Could not find a suitable TLS CA certificate bundle, invalid path: D:\Users\98053\Anaconda3\lib\site-packages\certifi\cacert.pem
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'gbk' codec can't decode byte 0xaa in position 31158: illegal multibyte sequence
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+'NoneType' object has no attribute 'find'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/77225045.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/123170222.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/128166582.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129179906.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/124901350.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-bsq/129595513.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-bsq/129201256.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128147722.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129518471.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118418992.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116967554.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124328827.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128860407.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jaq/122340483.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/128362956.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/122485597.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/125303557.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/122532194.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121543750.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118554478.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118397247.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118027671.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116735406.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129073722.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/117217379.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/90569492.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/108164179.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/117320166.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/107075406.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/87601188.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/74922978.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/72527109.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/122329772.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129701635.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129701570.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/111665588.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/109574052.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/108296650.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-hpq/61575599.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-hpq/41619053.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129483569.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129203239.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129201367.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128919688.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/129671236.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/126300464.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/126025348.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/124606882.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/123914174.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/121016597.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/114748506.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128735920.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/123434706.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/122988249.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121923438.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/117082397.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116663060.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116530187.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/114755273.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/114754869.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/112621104.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/111646833.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/110373822.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/109088605.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/107115302.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/103308156.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/73279421.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/73164761.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/72887433.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/72811634.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/71509328.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/70432165.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129243335.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129242363.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129240371.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/123488007.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121923301.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121760789.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121452118.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/121062680.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/117748410.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/114167811.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/111115372.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/110239159.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/110237731.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/109537547.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/109012438.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/108551625.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/105471884.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/102589369.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/102376110.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/96790692.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/71090448.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/70474043.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/70473998.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/70473948.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/70432397.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/58458794.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/58458488.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/58458462.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/58458432.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/58458357.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129301415.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128438581.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/103830324.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129306321.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129699979.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/129474223.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/127148979.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/129694224.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129668425.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128290097.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128289872.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126112976.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129397155.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129373257.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129303472.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/129243440.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/122807551.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/113598161.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/83753009.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/129696464.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/126944325.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/125761913.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/124944632.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/124942261.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/124628561.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/122486117.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/122085297.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/109307622.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/119831798.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/129651439.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-hpq/121673857.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128104609.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128104607.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/127968650.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/127430950.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/126135065.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/122745673.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/126335966.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128837824.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125378035.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124007437.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129461873.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/128327079.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/120378246.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/119691275.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/119071388.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/121209217.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/121141312.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/120297570.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128134237.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128077228.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128498021.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128225787.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/126754327.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126549186.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/124561353.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/127097610.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128654530.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/119180953.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/122671791.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/122265398.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/120999669.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/108261155.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-hkq/129211097.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/125684867.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/124475860.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/120132516.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118419238.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/118044272.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/127258528.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/123214366.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/123213999.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/123213860.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/123214071.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128334572.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125376690.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/123969590.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124639384.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/123501179.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125048196.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124223230.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124524806.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125105863.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/118145558.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125073127.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/122131720.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/121369589.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/121369504.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/118145717.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/119627286.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/108560647.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/107808206.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/106820980.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/101045586.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/101045848.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/119753649.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/111178951.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/119342223.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124280316.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125373146.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124892059.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124623762.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/122242058.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/113865345.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/98967047.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125369313.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/122612169.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125073752.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125484297.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125074482.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/125725937.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124280969.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/123015063.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/91895299.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/127552539.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/110964197.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/125290649.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/119421224.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116379921.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126467173.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/74096839.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/127361308.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128511138.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128129992.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/127975677.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/120242976.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/120242961.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/114921809.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/105660537.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/107157728.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/129260028.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/129084157.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129472670.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/128088555.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/127828378.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/115476542.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/118496528.html?s=sou_sou_soulb&t=0'}, {'job_href': 'https://jobs.51job.com/shanghai-jdq/118496528.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jaq/128233163.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/129482346.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/126188530.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/122193280.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/124165730.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128115855.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/121028600.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128306225.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jsq/127758361.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/129399904.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ypq/128839273.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/127067304.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/128636247.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/128749094.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/127520651.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/124544931.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-sjq/120545238.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/126599961.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/127086290.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128583850.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/127655956.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128658688.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/129402165.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/129401838.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-fxq/50416339.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128490852.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128478193.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/123843135.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/127554981.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128583421.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128774223.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126692929.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126692574.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/123192528.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/122249229.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shenzhen-baq/121151283.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/116218182.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shenzhen-baq/110366573.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/106058005.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126729756.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/127539663.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/maanshan/123297689.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128498434.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/123779278.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/125848545.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128363016.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128287368.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128285573.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128285041.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128284482.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128284322.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128283701.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128278933.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128273186.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128269691.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128267900.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128267845.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128291221.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128291055.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128281314.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128277281.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/128267215.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128287938.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128284679.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/108839805.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/99799853.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/116748400.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/128279567.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128033280.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128285411.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/125089680.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/122397201.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/121842656.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/121165359.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/121165345.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-qpq/120689248.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/110919848.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/126584667.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/116877319.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/116175547.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ypq/121871918.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-pdxq/128998777.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-ptq/124215963.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/127411066.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/126857714.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/128971973.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jdq/128829407.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-cnq/129191148.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/zhuhai/120812843.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/128517085.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-jaq/122234013.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/yiwu/128992560.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128381432.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai/128381364.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-xhq/115500443.html?s=sou_sou_soulb&t=0'}]'
+No connection adapters were found for '[{'job_href': 'https://jobs.51job.com/shanghai-mhq/126856799.html?s=sou_sou_soulb&t=0'}]'
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+(1406, "Data too long for column 'job_detail' at row 18")
+(1406, "Data too long for column 'job_detail' at row 20")
+(1406, "Data too long for column 'job_detail' at row 21")
+(1406, "Data too long for column 'job_detail' at row 22")
+(1406, "Data too long for column 'job_detail' at row 24")
+(1406, "Data too long for column 'job_detail' at row 25")
+(1406, "Data too long for column 'job_detail' at row 26")
+(1406, "Data too long for column 'job_detail' at row 29")
+(1406, "Data too long for column 'job_detail' at row 30")
+(1406, "Data too long for column 'job_detail' at row 31")
+(1406, "Data too long for column 'job_detail' at row 32")
+(1406, "Data too long for column 'job_detail' at row 33")
+(1406, "Data too long for column 'job_detail' at row 34")
+(1406, "Data too long for column 'job_detail' at row 35")
+(1406, "Data too long for column 'job_detail' at row 37")
+(1406, "Data too long for column 'job_detail' at row 38")
+(1406, "Data too long for column 'job_detail' at row 39")
+(1406, "Data too long for column 'job_detail' at row 40")
+(1406, "Data too long for column 'job_detail' at row 41")
+(1406, "Data too long for column 'job_detail' at row 42")
+(1406, "Data too long for column 'job_detail' at row 43")
+(1406, "Data too long for column 'job_detail' at row 44")
+(1406, "Data too long for column 'job_detail' at row 45")
+(1406, "Data too long for column 'job_detail' at row 46")
+(1406, "Data too long for column 'job_detail' at row 47")
+(1406, "Data too long for column 'job_detail' at row 48")
+(1406, "Data too long for column 'job_detail' at row 51")
+(1406, "Data too long for column 'job_detail' at row 52")
+(1406, "Data too long for column 'job_detail' at row 53")
+(1406, "Data too long for column 'job_detail' at row 54")
+(1406, "Data too long for column 'job_detail' at row 55")
+(1406, "Data too long for column 'job_detail' at row 56")
+(1406, "Data too long for column 'job_detail' at row 57")
+(1406, "Data too long for column 'job_detail' at row 58")
+(1406, "Data too long for column 'job_detail' at row 59")
+(1406, "Data too long for column 'job_detail' at row 60")
+(1406, "Data too long for column 'job_detail' at row 61")
+(1406, "Data too long for column 'job_detail' at row 62")
+(1406, "Data too long for column 'job_detail' at row 63")
+(1406, "Data too long for column 'job_detail' at row 64")
+(1406, "Data too long for column 'job_detail' at row 65")
+(1406, "Data too long for column 'job_detail' at row 66")
+(1406, "Data too long for column 'job_detail' at row 67")
+(1406, "Data too long for column 'job_detail' at row 68")
+(1406, "Data too long for column 'job_detail' at row 69")
+(1406, "Data too long for column 'job_detail' at row 70")
+(1406, "Data too long for column 'job_detail' at row 71")
+(1406, "Data too long for column 'job_detail' at row 72")
+(1406, "Data too long for column 'job_detail' at row 73")
+(1406, "Data too long for column 'job_detail' at row 74")
+(1406, "Data too long for column 'job_detail' at row 75")
+(1406, "Data too long for column 'job_detail' at row 76")
+(1406, "Data too long for column 'job_detail' at row 77")
+(1406, "Data too long for column 'job_detail' at row 78")
+(1406, "Data too long for column 'job_detail' at row 79")
+(1406, "Data too long for column 'job_detail' at row 80")
+(1406, "Data too long for column 'job_detail' at row 81")
+(1406, "Data too long for column 'job_detail' at row 82")
+(1406, "Data too long for column 'job_detail' at row 83")
+(1406, "Data too long for column 'job_detail' at row 84")
+(1406, "Data too long for column 'job_detail' at row 85")
+(1406, "Data too long for column 'job_detail' at row 86")
+(1406, "Data too long for column 'job_detail' at row 88")
+(1406, "Data too long for column 'job_detail' at row 89")
+(1406, "Data too long for column 'job_detail' at row 90")
+(1406, "Data too long for column 'job_detail' at row 91")
+(1406, "Data too long for column 'job_detail' at row 92")
+(1406, "Data too long for column 'job_detail' at row 94")
+(1406, "Data too long for column 'job_detail' at row 95")
+(1406, "Data too long for column 'job_detail' at row 96")
+(1406, "Data too long for column 'job_detail' at row 97")
+(1406, "Data too long for column 'job_detail' at row 105")
+(1406, "Data too long for column 'job_detail' at row 106")
+(1406, "Data too long for column 'job_detail' at row 107")
+(1406, "Data too long for column 'job_detail' at row 108")
+(1406, "Data too long for column 'job_detail' at row 109")
+(1406, "Data too long for column 'job_detail' at row 110")
+(1406, "Data too long for column 'job_detail' at row 117")
+(1406, "Data too long for column 'job_detail' at row 119")
+(1406, "Data too long for column 'job_detail' at row 122")
+(1406, "Data too long for column 'job_detail' at row 123")
+(1406, "Data too long for column 'job_detail' at row 124")
+(1406, "Data too long for column 'job_detail' at row 125")
+(1406, "Data too long for column 'job_detail' at row 126")
+(1406, "Data too long for column 'job_detail' at row 127")
+(1406, "Data too long for column 'job_detail' at row 128")
+(1406, "Data too long for column 'job_detail' at row 129")
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+(1406, "Data too long for column 'job_detail' at row 160")
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+(1406, "Data too long for column 'job_detail' at row 310")
+(1406, "Data too long for column 'job_detail' at row 311")
+(1406, "Data too long for column 'job_detail' at row 312")
+(1406, "Data too long for column 'job_detail' at row 313")
+(1406, "Data too long for column 'job_detail' at row 314")
+(1406, "Data too long for column 'job_detail' at row 320")
+(1406, "Data too long for column 'job_detail' at row 322")
+(1406, "Data too long for column 'job_detail' at row 323")
+(1406, "Data too long for column 'job_detail' at row 327")
+(1406, "Data too long for column 'job_detail' at row 328")
+(1406, "Data too long for column 'job_detail' at row 329")
+(1406, "Data too long for column 'job_detail' at row 330")
+(1406, "Data too long for column 'job_detail' at row 332")
+(1406, "Data too long for column 'job_detail' at row 333")
+(1406, "Data too long for column 'job_detail' at row 334")
+(1406, "Data too long for column 'job_detail' at row 335")
+(1406, "Data too long for column 'job_detail' at row 336")
+(1406, "Data too long for column 'job_detail' at row 337")
+(1406, "Data too long for column 'job_detail' at row 338")
+(1406, "Data too long for column 'job_detail' at row 339")
+(1406, "Data too long for column 'job_detail' at row 342")
+(1406, "Data too long for column 'job_detail' at row 343")
+(1406, "Data too long for column 'job_detail' at row 346")
+(1406, "Data too long for column 'job_detail' at row 348")
+(1406, "Data too long for column 'job_detail' at row 350")
+(1406, "Data too long for column 'job_detail' at row 351")
+(1406, "Data too long for column 'job_detail' at row 352")
+(1406, "Data too long for column 'job_detail' at row 354")
+(1406, "Data too long for column 'job_detail' at row 355")
+(1406, "Data too long for column 'job_detail' at row 357")
+(1406, "Data too long for column 'job_detail' at row 359")
+(1406, "Data too long for column 'job_detail' at row 360")
+(1406, "Data too long for column 'job_detail' at row 363")
+(1406, "Data too long for column 'job_detail' at row 364")
+(1406, "Data too long for column 'job_detail' at row 365")
+(1406, "Data too long for column 'job_detail' at row 369")
+(1406, "Data too long for column 'job_detail' at row 370")
+(1406, "Data too long for column 'job_detail' at row 372")
+(1406, "Data too long for column 'job_detail' at row 373")
+(1406, "Data too long for column 'job_detail' at row 377")
+(1406, "Data too long for column 'job_detail' at row 378")
+(1406, "Data too long for column 'job_detail' at row 379")
+(1406, "Data too long for column 'job_detail' at row 383")
+(1406, "Data too long for column 'job_detail' at row 384")
+(1406, "Data too long for column 'job_detail' at row 385")
+(1406, "Data too long for column 'job_detail' at row 386")
+(1406, "Data too long for column 'job_detail' at row 389")
+(1406, "Data too long for column 'job_detail' at row 390")
+(1406, "Data too long for column 'job_detail' at row 391")
+(1406, "Data too long for column 'job_detail' at row 392")
+(1406, "Data too long for column 'job_detail' at row 393")
+(1406, "Data too long for column 'job_detail' at row 395")
+(1406, "Data too long for column 'job_detail' at row 396")
+(1406, "Data too long for column 'job_detail' at row 397")
+(1406, "Data too long for column 'job_detail' at row 398")
+(1406, "Data too long for column 'job_detail' at row 399")
+(1406, "Data too long for column 'job_detail' at row 400")
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+Invalid URL '': No schema supplied. Perhaps you meant http://?
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's teams to address important issues and to resolve       them  Experienced in co' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's degree or above in EE or related.2¡¢Skilled in csh/perl/tcl scripts on Linux/' at line 1")
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's request.8. Support sales manager to do data analysis (quarterly and yearly rev' at line 1")
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'experience\xa0in\xa0sale\xa0&\xa0business\xa0development.? Knowledge of semiconductor and ' at line 1")
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+Invalid URL '': No schema supplied. Perhaps you meant http://?
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
+'NoneType' object has no attribute 'find'
+cannot unpack non-iterable NoneType object
